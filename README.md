@@ -10,7 +10,7 @@ Alexander Genov - Sayshoo
 
 Tsvetomil Yordanov - cvetomill
 
-Stoyan Stoyanov - emzone
+Stoyan Stoyanov - SGStoyanov
 
 Daniel Dimitrov
 
