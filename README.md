@@ -1,4 +1,4 @@
-Java Game Team "Illum"
+SoftUni Team "Illum"
 
 That's our first team project for SoftUni (SoftUni.bg) called "3072" - our modification of the classic 2048 game implemented using Java and its built-in platfrom JavaFX.
 
